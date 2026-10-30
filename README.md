@@ -18,22 +18,6 @@ It is being developed as an end-to-end analytics project and will be extended st
 - Perform SQL-based analysis using MySQL
 - Build an interactive Power BI dashboard
 
-## 🗂️ Project Structure
-
-```text
-industrial-machine-predictive-maintenance/
-│
-├── README.md
-├── data/
-│   └── predictive_maintenance_v3.csv
-├── notebooks/
-│   └── Industrial_Machine_Predictive_Maintenance_EDA.ipynb
-├── sql/
-├── powerbi/
-├── ml/
-└── images/
-```
-
 ## 🔄 Project Roadmap
 
 ### Part 1 — Python EDA ✅
